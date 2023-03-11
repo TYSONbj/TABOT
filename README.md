@@ -1,2 +1,1 @@
-https://www.heroku.com/deploy?template=https://github.com/Mkaisksk/TABOT-
-https://www.heroku.com/deploy?template=https://github.com/Mkaisksk/Tyson-
+https://www.heroku.com/deploy?template=https://github.com/z3z3zzz/Tyson-
